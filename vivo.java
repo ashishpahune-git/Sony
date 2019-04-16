@@ -1,1 +1,3 @@
-hello vivo
+Class Vivo{
+int a=10;
+}
